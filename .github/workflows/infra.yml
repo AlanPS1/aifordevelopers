@@ -5,7 +5,7 @@ on:
 
 env:
   RG_NAME: ${{secrets.RG_NAME}}
-  LOCATION: 'eastus'
+  LOCATION: 'uksouth'
   DEPLOYMENT_NAME: 'ai-demo-deployment'
 
 jobs:
